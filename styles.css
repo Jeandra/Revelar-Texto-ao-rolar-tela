@@ -5,16 +5,16 @@
     padding: 50px 20px;
 }
 
-body {  background-color: #131313; }
+body {  background-color: #000000; }
 
 .reveal {
     position: relative;
     transform: translateY(144px);
     opacity: 0;
     transition: 1s all ease;
-    background-color: #454545;
+    background-color: #151515;
     border-radius: 10px;
-    color: #fff;
+    color: #cacaca;
    
 }
 
